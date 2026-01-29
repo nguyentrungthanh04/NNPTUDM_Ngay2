@@ -1,2 +1,2 @@
 # NNPTUDM_Ngay2
-Ngôn ngữ phát triển ứng dụng mới
+Nguyễn Trung Thành _ 2280602950
